@@ -1,3 +1,20 @@
+*.VC.db
+*.opendb
+*.aps
+*.exe
+*.idb
+*.ipch
+*.lib
+*.log
+*.sdf
+*.suo
+*.manifest
+*.obj
+*.tlog
+/Release/
+/Debug/
+/resources/inspiration/
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
